@@ -1,7 +1,7 @@
 # quality-prediction
 An end-to-end regression prediction model for variable-length data, which also proposes an effective fusion method for interpretable different structural features.
 
-model pseudocode：
+pseudocode：
 
 CLASS Blendmapping EXTENDS Module
     INIT(d_model, d_yc, d_y, N, heads, m, dropout)
